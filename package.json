@@ -1,0 +1,22 @@
+{
+  "name": "react-tdd",
+  "version": "1.0.0",
+  "description": "Published by Packt",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrianibrahim/Mastering-React-Test-Driven-Development.git"
+  },
+  "author": "Fabrian Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabrianibrahim/Mastering-React-Test-Driven-Development/issues"
+  },
+  "homepage": "https://github.com/fabrianibrahim/Mastering-React-Test-Driven-Development#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
